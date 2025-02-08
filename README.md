@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there ~
+
+🌱 Always learning something.
+
+🌺 A bit old, but you might like it:
+
+https://github.com/user-attachments/assets/fb027a3a-c209-4f5d-8858-e512e9b2462e
+
+(Check [ihavetime](https://github.com/dinosaph/ihavetime) for more details)
+
 
 <!--
 **dinosaph/dinosaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
